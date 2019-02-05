@@ -1,0 +1,7 @@
+com\RestAssured\GenericUtils\ExtentReport.class
+com\RestAssured\coreUtils\RestApiCalls.class
+com\RestAssured\GenericUtils\PayloadConverter.class
+com\RestAssured\GenericUtils\BaseUrl.class
+com\RestAssured\GenericUtils\VerifyJsonResponse.class
+com\RestAssured\GenericUtils\Assertion.class
+com\RestAssured\GenericUtils\TestUtils.class

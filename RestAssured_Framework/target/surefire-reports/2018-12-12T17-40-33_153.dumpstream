@@ -1,0 +1,15 @@
+# Created at 2018-12-12T17:40:35.722
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2018-12-12T17:40:35.725
+WARNING: Illegal reflective access by org.codehaus.groovy.reflection.CachedClass (file:/C:/Users/GLB-242/AppData/Local/Temp/surefire1839538669170559181/..%5C..%5C..%5C..%5C.m2%5Crepository%5Corg%5Ccodehaus%5Cgroovy%5Cgroovy%5C2.4.15%5Cgroovy-2.4.15.jar) to method java.lang.Object.finalize()
+
+# Created at 2018-12-12T17:40:35.726
+WARNING: Please consider reporting this to the maintainers of org.codehaus.groovy.reflection.CachedClass
+
+# Created at 2018-12-12T17:40:35.726
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2018-12-12T17:40:35.727
+WARNING: All illegal access operations will be denied in a future release
+

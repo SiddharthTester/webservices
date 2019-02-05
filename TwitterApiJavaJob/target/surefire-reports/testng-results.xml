@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-09T06:56:17Z" name="Suite" finished-at="2018-12-09T06:56:17Z" duration-ms="50">
+    <groups>
+    </groups>
+    <test started-at="2018-12-09T06:56:17Z" name="Test" finished-at="2018-12-09T06:56:17Z" duration-ms="50">
+      <class name="com.RestAssuredframework.SampleClass1">
+        <test-method signature="firsttest()[pri:0, instance:com.RestAssuredframework.SampleClass1@be35cd9]" started-at="2018-12-09T06:56:17Z" name="firsttest" finished-at="2018-12-09T06:56:17Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttest -->
+        <test-method signature="loggertest()[pri:0, instance:com.RestAssuredframework.SampleClass1@be35cd9]" started-at="2018-12-09T06:56:17Z" name="loggertest" finished-at="2018-12-09T06:56:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggertest -->
+        <test-method signature="secondtest()[pri:0, instance:com.RestAssuredframework.SampleClass1@be35cd9]" started-at="2018-12-09T06:56:17Z" name="secondtest" finished-at="2018-12-09T06:56:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondtest -->
+      </class> <!-- com.RestAssuredframework.SampleClass1 -->
+      <class name="com.RestAssuredframework.SampleClass2">
+        <test-method signature="Fourthtest()[pri:0, instance:com.RestAssuredframework.SampleClass2@4944252c]" started-at="2018-12-09T06:56:17Z" name="Fourthtest" finished-at="2018-12-09T06:56:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fourthtest -->
+        <test-method signature="thirdtest()[pri:0, instance:com.RestAssuredframework.SampleClass2@4944252c]" started-at="2018-12-09T06:56:17Z" name="thirdtest" finished-at="2018-12-09T06:56:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdtest -->
+      </class> <!-- com.RestAssuredframework.SampleClass2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

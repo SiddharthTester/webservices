@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "project":
+    {
+      "key": "RES"
+    },
+    "summary": "Ho gaya Checking Comment from IntelIJ Idea",
+    "description": "Ho gaya RestApi Automation on Sunday to check automation commenting in Jira",
+    "issuetype": {
+      "name": "Bug"
+    }
+  }
+}

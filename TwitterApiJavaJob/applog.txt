@@ -1,0 +1,84 @@
+INFO    2018-12-05 13:12:59,481 [main] com.RestAssuredframework.SampleClass1  - I am First Test
+ERROR   2018-12-05 13:12:59,484 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-05 13:12:59,485 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+DEBUG   2018-12-05 13:12:59,485 [main] com.RestAssuredframework.SampleClass1  - I am second Test
+INFO    2018-12-05 13:18:59,980 [main] com.RestAssuredframework.SampleClass1  - I am First Test
+ERROR   2018-12-05 13:18:59,986 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-05 13:18:59,986 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+ERROR   2018-12-05 13:18:59,987 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 13:18:59,987 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 13:18:59,987 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 13:18:59,987 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 13:18:59,988 [main] com.RestAssuredframework.SampleClass1  - I am second Test
+INFO    2018-12-05 13:26:47,513 [main] com.RestAssuredframework.SampleClass1  - I am First Test
+ERROR   2018-12-05 13:26:47,516 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-05 13:26:47,516 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+ERROR   2018-12-05 13:26:47,516 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 13:26:47,517 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 13:26:47,517 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 13:26:47,517 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 13:26:47,520 [main] com.RestAssuredframework.SampleClass1  - I am second Test
+INFO    2018-12-05 15:21:43,794 [main] com.RestAssuredframework.SampleClass1  - I am First Test
+ERROR   2018-12-05 15:21:43,830 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-05 15:21:43,830 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+ERROR   2018-12-05 15:21:43,830 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 15:21:43,830 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 15:21:43,830 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 15:21:43,831 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 15:21:43,831 [main] com.RestAssuredframework.SampleClass1  - I am second Test
+INFO    2018-12-05 15:30:25,776 [main] com.RestAssuredframework.SampleClass1  - I am First Test
+ERROR   2018-12-05 15:30:25,779 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-05 15:30:25,779 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+ERROR   2018-12-05 15:30:25,779 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 15:30:25,780 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 15:30:25,780 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 15:30:25,780 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 15:30:25,781 [main] com.RestAssuredframework.SampleClass1  - I am second Test
+ERROR   2018-12-05 15:30:25,783 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-05 15:30:25,783 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+ERROR   2018-12-05 15:30:25,783 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 15:30:25,783 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 15:30:25,783 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 15:30:25,783 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 15:32:18,516 [main] com.RestAssuredframework.SampleClass1  - I am First Test
+ERROR   2018-12-05 15:32:18,520 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-05 15:32:18,520 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+ERROR   2018-12-05 15:32:18,520 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 15:32:18,521 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 15:32:18,521 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 15:32:18,521 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 15:32:18,522 [main] com.RestAssuredframework.SampleClass1  - I am second Test
+ERROR   2018-12-05 15:32:18,523 [main] com.RestAssuredframework.SampleClass2  - Error Type loggerTest
+FATAL   2018-12-05 15:32:18,523 [main] com.RestAssuredframework.SampleClass2  - Fatal Type
+ERROR   2018-12-05 15:32:18,523 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 15:32:18,524 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 15:32:18,524 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 15:32:18,524 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 17:01:06,554 [main] com.RestAssuredframework.SampleClass1  - I am First Test
+ERROR   2018-12-05 17:01:06,578 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-05 17:01:06,578 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+ERROR   2018-12-05 17:01:06,579 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 17:01:06,579 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 17:01:06,579 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 17:01:06,579 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 17:01:06,580 [main] com.RestAssuredframework.SampleClass1  - I am second Test
+ERROR   2018-12-05 17:01:06,582 [main] com.RestAssuredframework.SampleClass2  - Error Type loggerTest
+FATAL   2018-12-05 17:01:06,582 [main] com.RestAssuredframework.SampleClass2  - Fatal Type
+ERROR   2018-12-05 17:01:06,583 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-05 17:01:06,583 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-05 17:01:06,583 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-05 17:01:06,583 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-09 12:26:17,074 [main] com.RestAssuredframework.SampleClass1  - I am First Test
+ERROR   2018-12-09 12:26:17,098 [main] com.RestAssuredframework.SampleClass1  - Error Type loggerTest
+FATAL   2018-12-09 12:26:17,098 [main] com.RestAssuredframework.SampleClass1  - Fatal Type
+ERROR   2018-12-09 12:26:17,098 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-09 12:26:17,098 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-09 12:26:17,099 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-09 12:26:17,099 [main] com.RestAssuredframework.SampleClass1  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-09 12:26:17,100 [main] com.RestAssuredframework.SampleClass1  - I am second Test
+ERROR   2018-12-09 12:26:17,101 [main] com.RestAssuredframework.SampleClass2  - Error Type loggerTest
+FATAL   2018-12-09 12:26:17,101 [main] com.RestAssuredframework.SampleClass2  - Fatal Type
+ERROR   2018-12-09 12:26:17,101 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+INFO    2018-12-09 12:26:17,102 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+DEBUG   2018-12-09 12:26:17,102 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero
+FATAL   2018-12-09 12:26:17,102 [main] com.RestAssuredframework.SampleClass2  - java.lang.ArithmeticException: / by zero

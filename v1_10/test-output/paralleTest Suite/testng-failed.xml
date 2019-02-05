@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="tests" name="Failed suite [paralleTest Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="4" parallel="tests" name="phptravels(failed)">
+    <parameter name="grpbrowser" value="Chrome"/>
+    <classes>
+      <class name="com.phPTravels.v1_10.TestCase1">
+        <methods>
+          <include name="bookHotels"/>
+          <include name="oops"/>
+          <include name="openApp"/>
+        </methods>
+      </class> <!-- com.phPTravels.v1_10.TestCase1 -->
+    </classes>
+  </test> <!-- phptravels(failed) -->
+  <test thread-count="4" parallel="tests" name="flipkart(failed)">
+    <parameter name="grpbrowser" value="Chrome"/>
+    <classes>
+      <class name="com.phPTravels.v1_10.HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="openApp"/>
+          <include name="searchProduct"/>
+        </methods>
+      </class> <!-- com.phPTravels.v1_10.HomePageTest -->
+    </classes>
+  </test> <!-- flipkart(failed) -->
+</suite> <!-- Failed suite [paralleTest Suite] -->

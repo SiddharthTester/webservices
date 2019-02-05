@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.phPTravels.v1_10.TestCase1"/>
+      <!-- <class name="com.phPTravels.v1_10.HomePageTest"/> -->
+    </classes>
+  </test> 
+</suite> 
+
+<!-- <suite thread-count="2" name="paralleTest Suite" parallel="tests">
+         
+  <test name="flipkart">
+  <parameter name="grpbrowser" value="Chrome" />
+	 <classes>
+	   <class name="com.phPTravels.v1_10.HomePageTest"/>
+	 </classes>
+   </test>
+   
+  <test name="phptravels">
+  <parameter name="grpbrowser" value="Chrome" />
+     <classes>
+       <class name="com.phPTravels.v1_10.TestCase1"/>
+     </classes>
+   </test>
+</suite> -->
